@@ -37,23 +37,23 @@ public class MathTest {
         }
 
         if (num == 2) {
-            System.out.println(+num + "*" + num + "*" + (num * num));
+            System.out.println(+num + "*" + num + "=" + (num * num));
         }
         if (num == 3) {
-            System.out.println(+num + "/" + num + "/" + (num / num));
+            System.out.println(+num + "/" + num + "=" + (num / num));
         }
 
         if (num == 4) {
-            System.out.println(+num + "%" + num + "%" + (num % num));
+            System.out.println(+num + "%" + num + "=" + (num % num));
         }
         if (num == 5) {
-            System.out.println(+num + "<" + num + "<" + (num < num));
+            System.out.println(+num + "<" + num + "=" + (num < num));
         }
         if (num == 6) {
-            System.out.println(+num + "<=" + num + "<=" + (num <= num));
+            System.out.println(+num + "<=" + num + "=" + (num <= num));
         }
         if (num == 7) {
-            System.out.println(+num + ">" + num + ">" + (num > num));
+            System.out.println(+num + ">" + num + "=" + (num > num));
         }
 //         if(num==8){
 //             System.out.println(+num+"=>"+num+"=>"+(num=>num));
